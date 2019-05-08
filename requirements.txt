@@ -1,0 +1,2 @@
+canvasapi==0.12.0
+python-dotenv==0.8.2
