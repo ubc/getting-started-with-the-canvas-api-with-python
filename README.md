@@ -1,6 +1,6 @@
 # Getting Started with the Canvas API
 
-{ToDo}
+This package will get you started with interfacing with the Canvas API using Python.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for use with your own API tokens and Canvas domains.
