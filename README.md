@@ -1,4 +1,4 @@
-# Getting Started with the Canvas API
+# Getting Started with the Canvas API with Python
 
 This package will get you started with interfacing with the Canvas API using Python.
 
