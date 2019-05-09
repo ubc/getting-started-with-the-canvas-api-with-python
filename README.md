@@ -12,6 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation and execution
 
+*Not sure what a "repo" or "git" are? Check out this [helpful guide first!](https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f)*
+
 1. Clone this repo. `git clone https://github.com/ubccapico/getting-started-with-the-canvas-api-with-python.git`
 1. Then cd into the repo. `cd getting-started-with-the-canvas-api-with-python`
 1. Run the installation script. `pip install -r requirements.txt` (If you see `bash: pip: command not found`, try using `pip3 install -r requirements.txt`)
