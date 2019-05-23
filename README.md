@@ -3,7 +3,7 @@
 This script will get you started with interfacing with the Canvas API using Python.
 
 ## Getting Started
-These instructions will get you a copy of the script up and running on your local machine for use with your own API tokens and Canvas domains. This script makes a request to the Canvas API that displays basic information about your user profile.
+These instructions will get you a copy of the script up and running on your local machine for use with Canvas domains and your own API tokens. This script makes a request to the Canvas API that displays basic information about your user profile.
 
 ### Prerequisites
 
