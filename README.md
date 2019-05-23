@@ -26,7 +26,7 @@ These instructions will get you a copy of the script up and running on your loca
 
 Try running some other scripts from [Capico](https://github.com/ubccapico). 
 
-You can also write your own code and run it! Be mindful that the API is running on the production Canvas instance - if you want to run against the Beta or Test instance, change the URL in `main.py` to `https://ubc.test.instructure.com` or `http://ubc.beta.instructure.com` and regenerate your token(s) from the Beta/Test site.
+You can also write your own code and run it! Be mindful that the API is running on the production Canvas instance - if you want to run against the Beta or Test instance, change the URL in `main.py` to `https://ubc.test.instructure.com` or `http://ubc.beta.instructure.com` and regenerate your token(s) from the Beta/Test site. *Students do not have access to Beta or Test, sorry!*
 
 ## Authors
 
